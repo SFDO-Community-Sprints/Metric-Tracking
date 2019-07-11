@@ -2,10 +2,10 @@
 Tracking metrics for orgs for clients.
 
 ### Project Description
-Let people know what your project can do and the intended benefits. 
+Identifiy and develop metrics that orgs can use to track their outcomes
 
 ### Project Audience
-Indicate who would find the most value in the use of this project.
+Anyone who wants to know what metrics to track and to how best track them
 
 ### Project Team
 
