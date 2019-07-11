@@ -1,5 +1,5 @@
 ### Metric Tracking
-Tracking metrics for orgs for clients/
+Tracking metrics for orgs for clients.
 
 ### Project Description
 Let people know what your project can do and the intended benefits. 
