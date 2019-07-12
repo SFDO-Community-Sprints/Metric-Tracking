@@ -38,3 +38,23 @@ What is the ultimate vision for this project?
 ### Reference:
 * Verasolutions.org - Solutions: Amp Impact
 
+### Schema
+Objects:
+* Initiative - Object to hold the results of each related benchmark. Has a master-detail relationship with the Benchmark object.
+* Benchmark -  Object to hold each of the various initiatives.
+* Indicator - Object that holds the key measurements to track for the organization. Has master-detail relationship with the Outcome object.
+* Outcome - Object to hold the outcomes which compare the target data and the actual results for a specific indicator. This is a junction object for Indicator and Benchmark.
+
+Initiative Fields:
+* Name (text)
+* Category (picklist)
+* Start Date (date)
+* End Date (date)
+  
+Indicator Fields:
+* Name (text)
+* Result Type (picklist)
+Outcome Fields:
+* Indicators (lookup)
+* Targets (numbers)
+* Results (numbers
