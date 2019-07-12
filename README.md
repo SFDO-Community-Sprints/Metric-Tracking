@@ -12,7 +12,7 @@ Anyone wants to go beyond the data collection and focus on what the data actuall
 ### Project Team
 
 * Team Leader:
-* List of Contributors: Christopher Littlefield, Carol Le, Ashima Saigal, Jason Vance, Heath Parks
+* List of Contributors: Christopher Littlefield (clittlefield3@une.edu), Carol Le (cle2@une.edu), Ashima Saigal, Jason Vance, Heath Parks
 
 ### Project Team Accomplishments
 What did the Project Team accomplished during the Sprint?
