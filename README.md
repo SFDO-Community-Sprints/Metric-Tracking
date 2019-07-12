@@ -5,6 +5,9 @@ Better understanding of the data collected for clients/students at an organizati
 Identify and develop metrics that organizations can use to track their outcomes and answer questions such as:
   * Is the client/student at risk?
   * How effective is our support to the client or students?
+  * Which client/student should we focus on?
+  * How to measure the performance of an initiative against defined parameters (e.g., budgetary, etc)
+
 
 ### Project Audience
 Anyone who wants a system to collect data about a program with key indicators, results and targets.
@@ -31,3 +34,7 @@ If someone were to contribute to this project at the next Sprint what would you 
 ### Project Roadmap
 What is the ultimate vision for this project?
 * Create a data model for collecting data for programmatic purposes
+
+### Reference:
+* Verasolutions.org - Solutions: Amp Impact
+
