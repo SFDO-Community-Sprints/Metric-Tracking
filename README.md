@@ -28,12 +28,13 @@ We created a data model and method for tracking the indicators and outcomes for 
 
 ### Contributing
 If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?
-* Talk to the team about how program data is currently being collected
+* Talking to the team about how program data is currently being collected
 * Being willing to push and pull on the model designed here, keeping in mind this is a simple prototype to begin
+* Writing code to help with developing rollups
 
 ### Project Roadmap
 What is the ultimate vision for this project?
-* Create a data model for collecting data for programmatic purposes
+* Create a data model for collecting data for various organizational initiatives
 
 ### Reference:
 * Verasolutions.org - Solutions: Amp Impact
