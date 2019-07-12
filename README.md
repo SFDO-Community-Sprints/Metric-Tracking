@@ -10,7 +10,7 @@ Anyone who wants to know what metrics to track and to how best track them
 ### Project Team
 
 * Team Leader:
-* List of Contributors:
+* List of Contributors: Christopher Littlefield, Carol Le
 
 ### Project Team Accomplishments
 What did the Project Team accomplished during the Sprint?
