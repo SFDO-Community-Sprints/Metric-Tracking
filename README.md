@@ -54,6 +54,7 @@ Initiative Fields:
 Indicator Fields:
 * Name (text)
 * Result Type (picklist)
+
 Outcome Fields:
 * Indicators (lookup)
 * Targets (numbers)
