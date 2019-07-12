@@ -1,0 +1,23 @@
+minimum_cumulusci_version: '2.5.3'
+project:
+    name: Metric-Tracking
+    package:
+        name:  Metric Tracking
+        api_version: '45.0'
+
+tasks:
+    robot:
+        options:
+            suites: robot/Metric-Tracking/tests
+            options:
+                outputdir: robot/Metric-Tracking/results
+
+    robot_testdoc:
+        options:
+            path: robot/Metric-Tracking/tests
+            output: robot/Metric-Tracking/doc/Metric-Tracking_tests.html
+
+flows:
+    config_qa:
+        1.1:
+            task: deploy_qa_config

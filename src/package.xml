@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AppSwitcher</members>
+        <members>AppSwitcher</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
+        <members>Benchmark_Tracking</members>
+        <members>Benchmark_Tracking</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Indicator__c.Result_Type__c</members>
+        <members>Indicator__c.Result_Type__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Benchmark__c</members>
+        <members>Benchmark__c</members>
+        <members>Indicator__c</members>
+        <members>Indicator__c</members>
+        <members>Initiative__c</members>
+        <members>Initiative__c</members>
+        <members>Outcome__c</members>
+        <members>Outcome__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Benchmark__c</members>
+        <members>Benchmark__c</members>
+        <members>Indicator__c</members>
+        <members>Indicator__c</members>
+        <members>Initiative__c</members>
+        <members>Initiative__c</members>
+        <members>Outcome__c</members>
+        <members>Outcome__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Benchmark_Tracking_UtilityBar</members>
+        <members>Benchmark_Tracking_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Benchmark__c-Benchmark Layout</members>
+        <members>Benchmark__c-Benchmark Layout</members>
+        <members>Indicator__c-Indicator Layout</members>
+        <members>Indicator__c-Indicator Layout</members>
+        <members>Initiative__c-Initiative Layout</members>
+        <members>Initiative__c-Initiative Layout</members>
+        <members>Outcome__c-Outcome Layout</members>
+        <members>Outcome__c-Outcome Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Security</members>
+        <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <version>45.0</version>
+</Package>
