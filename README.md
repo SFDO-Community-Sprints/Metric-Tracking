@@ -17,7 +17,7 @@ Anyone who wants a system to collect data about a program with key indicators, r
 ### Project Team
 
 * Team Leader:
-* List of Contributors: Christopher Littlefield (clittlefield3@une.edu), Carol Le (cle2@une.edu), Ashima Saigal (ashima@databasesherpa.com), Jason Vance (vancejas@msu.edu), Heath Parks (hparks@cincinnatiworks.org), William Corkill ()
+* List of Contributors: Christopher Littlefield (cbl1966@gmail.com), Carol Le (cle2@une.edu), Ashima Saigal (ashima@databasesherpa.com), Jason Vance (vancejas@msu.edu), Heath Parks (hparks@cincinnatiworks.org), William Corkill ()
 
 ### Project Team Accomplishments
 What did the Project Team accomplished during the Sprint?
